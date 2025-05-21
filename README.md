@@ -1,2 +1,2 @@
 # simple-api
-Simple Rest API
+A Simple Rest API using Web HTML
